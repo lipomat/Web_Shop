@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Application\\Web_Shop.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Application\\Web_Shop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Application\\Web_Shop.Application.csproj",
+        "projectName": "Web_Shop.Application",
+        "projectPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Application\\Web_Shop.Application.csproj",
+        "packagesPath": "C:\\Users\\Strzelica Piechoty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\pliki , sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Strzelica Piechoty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence\\Web_Shop.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence\\Web_Shop.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Sieve": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence.MySQL\\Web_Shop.Persistence.MySQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence.MySQL\\Web_Shop.Persistence.MySQL.csproj",
+        "projectName": "Web_Shop.Persistence.MySQL",
+        "projectPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence.MySQL\\Web_Shop.Persistence.MySQL.csproj",
+        "packagesPath": "C:\\Users\\Strzelica Piechoty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence.MySQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\pliki , sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Strzelica Piechoty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence\\Web_Shop.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence\\Web_Shop.Persistence.csproj",
+        "projectName": "Web_Shop.Persistence",
+        "projectPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence\\Web_Shop.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Strzelica Piechoty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\pliki , sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Strzelica Piechoty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence.MySQL\\Web_Shop.Persistence.MySQL.csproj": {
+                "projectPath": "C:\\Users\\Strzelica Piechoty\\Desktop\\Web_Shop-feature-010-unit-tests\\Web_Shop-feature-010-unit-tests\\Web_Shop.Persistence.MySQL\\Web_Shop.Persistence.MySQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

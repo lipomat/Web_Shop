@@ -1,0 +1,17 @@
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Application.deps.json
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Application.dll
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Application.pdb
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Persistence.dll
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Persistence.MySQL.dll
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Persistence.pdb
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\bin\Debug\net6.0\Web_Shop.Persistence.MySQL.pdb
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.csproj.AssemblyReference.cache
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.AssemblyInfo.cs
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.9D48D14C.Up2Date
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.dll
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\refint\Web_Shop.Application.dll
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\Web_Shop.Application.pdb
+C:\Users\Strzelica Piechoty\Desktop\Web_Shop-feature-010-unit-tests\Web_Shop-feature-010-unit-tests\Web_Shop.Application\obj\Debug\net6.0\ref\Web_Shop.Application.dll
